@@ -487,6 +487,14 @@
       "endDate": "2022-11-12",
       "imageUrl": "/images/london/rails_girls_london_cats.jpg",
       "eventUrl": "/london.html"
+    },
+    {
+      "location": "Nakhon Pathom, Thailand",
+      "writtenDate": "July 1st & 2nd, 2025",
+      "startDate": "2025-07-01",
+      "endDate": "2025-07-02",
+      "imageUrl": "/images/nakhonpathom/mahidol-university.png",
+      "eventUrl": "/nakhon-pathom.html"
     }
   ]
 }
